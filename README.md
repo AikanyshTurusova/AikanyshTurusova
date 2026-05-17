@@ -1,4 +1,4 @@
-# Hi, I'm Aikanysh Turusova 👋
+# Hi, I'm Aikanysh Turusova 
 
 🎓 CS/Engineering student | Break Through Tech AI Fellow  
 🤖 Aspiring Machine Learning & AI Engineer  
